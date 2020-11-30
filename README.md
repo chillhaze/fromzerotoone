@@ -1,3 +1,3 @@
 # Liquidation
 
-https://chillhaze.github.io/fromzerotoone/.
+https://chillhaze.github.io/liquidation-template/
